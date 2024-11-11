@@ -59,15 +59,15 @@ body {
 .container {
     background-color: var(--neutral-200);
     /* US Paper size */
-    /* min-height: 11in;
-    width: 8.5in; */
+    min-height: 11in;
+    width: 8.5in;
     /* A4 Paper size */
     /* min-height: 11.69in;
     width: 8.27in; */
-    /* min-height: 70vw; */
+    /* min-height: 70vw;  */
     /* width: 60vw; */
-    height: 11.69in;
-    width: 8.27in;
+    /* height: 11.69in;
+    width: 8.27in; */
     margin: 0 auto;
     border: 1px solid var(--neutral-900);
     padding: 50px;
