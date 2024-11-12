@@ -70,7 +70,8 @@ body {
     width: 8.27in; */
     margin: 0 auto;
     border: 1px solid var(--neutral-900);
-    padding: 50px;
+    /* padding: 50px; */
+    padding: 40px;
     display: flex;
 }
 
